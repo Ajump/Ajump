@@ -14,5 +14,5 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![Firdaus's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajump&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajump&theme=radical)
+![Ajump's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajump&show_icons=true&theme=chartreuse-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajump&theme=chartreuse-dark)
