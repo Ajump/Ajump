@@ -1,8 +1,8 @@
 <!-- [![Header](https://raw.githubusercontent.com/mfirdausj/mfirdausj/main/readme_header.png "Header")]() -->
 
 ## Hello there! I'm Azamshah <img src="https://raw.githubusercontent.com/ajump/ajump/main/assets/wave.gif" width="30px">
-<!-- ### Hello there, my name is [Firdaus!]() -->
-- 🌱 I’m currently learning React <code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code> <code><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+
+- 🌱 I’m currently learning : <code><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code> , <code><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 <!-- - 📫 How to reach me: <code><a href="https://www.linkedin.com/in/mohdfirdausbinjohari/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code> -->
 
 ## Languages:
